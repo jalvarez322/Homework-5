@@ -2,14 +2,11 @@
 
 ## Description
 
-Hell! Welcome! this is my work day schedual that's built off Javascript, CSS, and HTMl and you can save your entry via local storage! This work day schedular is a calandar web page that schedulars your work day for you! 
+Hello! Welcome! this is my work day schedual that's built off Javascript, CSS, and HTMl and you can save your entry via local storage! This work day schedular is a calandar web page that schedulars your work day for you! 
 
 Link to the published site:
 https://jalvarez322.github.io/Homework-5/
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
